@@ -18,17 +18,17 @@ This repository is designed to help you:
 
 Practice-DSA/
 │
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-├── Recursion/
-├── SortingSearching/
-└── Others/
+- Arrays/
+- Strings/
+- LinkedList/
+- Stack/
+- Queue/
+- Trees/
+- Graphs/
+- DynamicProgramming/
+- Recursion/
+- SortingSearching/
+- Others/
 
 
 
