@@ -16,7 +16,7 @@ class MyAwesomeClass:
         
         return money*0.1
     
-    #this is used to use function like an attribute. First argument should be self only. And it can't take any other argument
+    #this is used to use function like an attribute. First argument should be self only. And it can't take any other argument. It is used for getter and setters
     @property
     def awesome_function(self):
         cls = self.__class__
