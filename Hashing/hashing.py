@@ -9,3 +9,6 @@ for ch in s:
         frequency[ch] +=1
     else:
         frequency[ch] =1
+
+
+print(frequency)
