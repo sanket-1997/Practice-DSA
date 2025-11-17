@@ -4,6 +4,24 @@
 
 s = "abaacdddda"
 
+
+hashmap2 = {}
+
+for ch in s:
+    if ch in hashmap2:
+        hashmap2[ch] +=1
+    else:
+        hashmap2[ch] =1
+
+s=""
+for ch in hashmap2:
+    s=s+ch+str(hashmap2[ch])
+
+print(s)
+
+
+
+
 hashmap = {}
 
 
