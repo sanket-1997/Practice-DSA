@@ -6,7 +6,7 @@ print(nums[:3])
 #get last 2 elements
 print(nums[-2:])
 #get everything except the first element
-print(nums[1:])
+print(nums[3:])
 #get everything except the last element
 print(nums[:-1])
 #copy entire list using slicing
